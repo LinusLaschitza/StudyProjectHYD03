@@ -3,7 +3,7 @@ EVALUATION OF THE IMPACTS OF ERRORS IN THE GRIDDED ERA5-LAND DATASET ON THE SIMU
 
 Hydro Science and Engineering M.Sc., TU Dresden
 
-Students: Stefan Metz, Linus Laschitza;
+Students: Linus Laschitza, Stefan Metz, ;
 Supervisor: Prof. Dr. Niels Schütze;
 Date of submission: 3/11/2024
 
